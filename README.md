@@ -17,3 +17,10 @@ WolfProtect will download Locked file then unlock it,and run Software in ram
 <h3>Q And A</h3>
 <p>Q:Can it run dll?<p>
 <P>A:Sure,And you don't need do any change your code software(●'◡'●)<p>
+<p>Q:You said change?So if i need use Wolfprotect to <p>
+ <p> Protect my software then i need share my source code with you?<p>
+  <p>A:Nope,Baby•ࡇ•,you can use the 
+    edit link.ini instead of your eazylanguageproject 's link.ini<p>
+  <p>or you can change your exe to dll(●'◡'●)<p>
+  <p>Q:It 's free?<p>
+  <p>A:It 's testing,now it 's free,we may make it pre<p>
